@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [],
+		"dataworkspace.excludedProjects": [
+			"database/MapData/MapData.sqlproj"
+		]
+	}
+}
